@@ -1,0 +1,126 @@
+@font-face
+{
+    src: url(./fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: Sacramento;
+}
+@font-face
+{
+    src: url(./fonts/Montserrat/Montserrat-Light.ttf);
+    font-family: Montserrat;
+}
+@font-face
+{
+    src: url(./fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: Merriweather;
+}
+@font-face
+{
+    src: url(./fonts/Fallsiscoming/FallIsComingRegular-Mx9B.ttf);
+    font-family: Falliscoming;
+}
+@font-face
+{
+    src: url(./fonts/VacationISParadise/VacationsInParadisePersonalUse-qwml.ttf);
+    font-family: VacationISParadise;
+}
+@font-face
+{
+    src: url(./fonts/Bronova/Bronova\ Regular.otf);
+    font-family: Bronova;
+}
+@font-face
+{
+    src: url(./fonts/Countryside/Countryside-YdKj.ttf);
+    font-family: Countryside;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: lightgreen;
+    width: 70rem;
+}
+.head-head
+{
+    position: relative;
+    color: whitesmoke;
+    background-size: cover;
+    margin-top: -1rem;
+    margin-left: -1rem;
+    margin-right: -15rem;
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-bottom: 5rem;
+    font-family: Countryside;
+    background: url(img/image8.jfif);
+    background-size: none;
+}
+.section1
+{
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.562)) ,url(img/image3.jfif);
+    background-size: 38%;
+    margin: -15rem;
+    padding-left: 15rem;
+    margin-top: -1.5rem;
+    height: 41rem;
+}
+#head
+{
+    position: relative;
+    top: 100px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Countryside;
+    font-size: 5rem;
+}
+#sub
+{
+    position: relative;
+    top: 150px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Falliscoming;
+    font-size: 3rem;
+}
+.show
+{
+    position: relative;
+    color: black;
+    background-color: lightgreen;
+    font-family: VacationISParadise;
+    text-decoration: none;
+    height: 100px;
+    width: 200px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 1.5rem;
+}
+.footer-1
+{
+    position: relative;
+    text-align: center;
+    top: 15rem;
+    background: url(img/image8.jfif);
+    background-size: none;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 3rem;
+    margin-right: -15rem;
+    margin-left: -1rem;
+    margin-bottom: -1rem;
+}
+#copyr
+{
+    text-align: center;
+    color: whitesmoke;
+}
+.links
+{
+    position: relative;
+    text-align: center;
+    margin-left: 10px;
+    color: whitesmoke;
+}

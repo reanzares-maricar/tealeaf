@@ -1,0 +1,270 @@
+@font-face
+{
+    src: url(./fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: Sacramento;
+}
+@font-face
+{
+    src: url(./fonts/Montserrat/Montserrat-Light.ttf);
+    font-family: Montserrat;
+}
+@font-face
+{
+    src: url(./fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: Merriweather;
+}
+@font-face
+{
+    src: url(./fonts/Fallsiscoming/FallIsComingRegular-Mx9B.ttf);
+    font-family: Falliscoming;
+}
+@font-face
+{
+    src: url(./fonts/VacationISParadise/VacationsInParadisePersonalUse-qwml.ttf);
+    font-family: VacationISParadise;
+}
+@font-face
+{
+    src: url(./fonts/Bronova/Bronova\ Regular.otf);
+    font-family: Bronova;
+}
+@font-face
+{
+    src: url(./fonts/Ginga/Ginga-2VGe.ttf);
+    font-family: Ginga;
+}
+@font-face
+{
+    src: url(./fonts/Countryside/Countryside-YdKj.ttf);
+    font-family: Countryside;
+}
+*{
+    margin: 0.5;
+    padding: 0.5;
+}
+body
+{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.562)) ,url(./img/image3.jfif);
+    background-size: 35%;
+    width: 65rem;
+}
+.head-head
+{
+    position: relative;
+    color: whitesmoke;
+    background-size: cover;
+    margin-top: -1rem;
+    margin-left: -1rem;
+    margin-right: -20rem;
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-bottom: 5rem;
+    font-family: Countryside;
+    background: url(img/image8.jfif);
+    background-size: none;
+}
+.section-back-back
+{
+    position: relative;
+    padding-left: 6rem;
+    top: 5rem;
+}
+#nature
+{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+    padding-left: 10rem;
+    font-size: 2rem;
+    bottom: 1rem;
+    font-family: Countryside;
+}
+.nav
+{
+    position: relative;
+    bottom: 5rem;
+}
+#navigator
+{
+    position: relative;
+    top: 1rem;
+    margin-left: 10px;
+    left: 1000px;
+    font-family: Bronova;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 20px;
+}
+.image1
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    width: 20rem;
+    left: 200px;
+}
+.image-image
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    width: 20rem;
+    right: 10rem;
+}
+.image-image-1
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    width: 20rem;
+}
+.image-image-2
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    width: 20rem;
+    right: 10rem;
+}
+.image-image-3
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    width: 20rem;
+}
+.image-image-4
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    width: 20rem;
+    left: 5rem;
+}
+.img-section
+{
+    position: relative;
+    bottom: 40rem;
+    left: 20rem;
+}
+#group-image
+{
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 2rem;
+    right: 14rem;
+    font-family: Countryside;
+}
+#info1
+{
+    position: relative;
+    font-family: Bronova;
+    font-size: 20px;
+    bottom: 18rem;
+    left: 300px;
+    text-align: center;
+    color: whitesmoke;
+}
+.image2
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    bottom: 10rem;
+    width: 20rem;
+    left: 200px;
+}
+#info2
+{
+    position: relative;
+    font-family: Bronova;
+    font-size: 20px;
+    bottom: 28rem;
+    left: 300px;
+    text-align: center;
+    color: whitesmoke;
+}
+.image3
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    bottom: 20rem;
+    width: 20rem;
+    left: 200px;
+}
+#info3
+{
+    position: relative;
+    font-family: Bronova;
+    font-size: 20px;
+    bottom: 38rem;
+    left: 300px;
+    text-align: center;
+    color: whitesmoke;
+}
+.image4
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    bottom: 30rem;
+    width: 20rem;
+    left: 200px;
+}
+#info4
+{
+    position: relative;
+    font-family: Bronova;
+    font-size: 20px;
+    bottom: 48rem;
+    left: 300px;
+    text-align: center;
+    color: whitesmoke;
+}
+.image5
+{
+    position: relative;
+    border-radius: 100%;
+    height: 20rem;
+    bottom: 40rem;
+    width: 20rem;
+    left: 200px;
+}
+#info5
+{
+    position: relative;
+    font-family: Bronova;
+    font-size: 20px;
+    bottom: 58rem;
+    left: 300px;
+    text-align: center;
+    color: whitesmoke;
+}
+.footer-1
+{
+    position: relative;
+    text-align: center;
+    background: url(img/image8.jfif);
+    background-size: none;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 3rem;
+    margin-right: -20rem;
+    margin-left: -1rem;
+    margin-bottom: -1rem;
+}
+#copyr
+{
+    text-align: center;
+    color: whitesmoke;
+}
+.links
+{
+    position: relative;
+    text-align: center;
+    margin-left: 10px;
+    color: whitesmoke;
+}
